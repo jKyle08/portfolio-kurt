@@ -23,7 +23,7 @@ enableEmoji = true
   github_text = "jKyle08"
 
   hero_description = "I specialize in building robust full-stack web applications with clean code and modern UI. Let’s build something amazing together!"
-  hero_location = "Santo Niño, South Cotabato, Philippines"
+  hero_location = "1921 B Dagonoy San Andres Bukid Manila"
   profile_image = "/images/kurt.jpg"  # or your preferred portrait image
 
   resume_url_en = "/files/john-kyle-lastimosa-resume.pdf"
