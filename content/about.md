@@ -1,7 +1,7 @@
 ---
 title: "About"
 intro: >
-  I’m John Kyle O. Lastimosa, a passionate full-stack developer with experience in building scalable and maintainable systems.  
+  I’m Kurt O. Laguerta, a passionate full-stack developer with experience in building scalable and maintainable systems.  
   I earned my degree in Information Technology major in Database Management from Mindanao State University – General Santos City (Aug 2015 – June 2019).
 
 passion_title: "My Passion"

@@ -5,19 +5,19 @@ collab_title: "Open for Collaboration In:"
 ---
 
 **Email**  
-[johnkyle.lastimosa99@gmail.com](mailto:johnkyle.lastimosa99@gmail.com)
+[laguertakurt@gmail.com](mailto:laguertakurt@gmail.com)
 
 **LinkedIn**  
-[linkedin.com/in/john-kyle-lastimosa](https://www.linkedin.com/in/john-kyle-lastimosa)
+[linkedin.com/in/kurt-laguerta-70a951347](https://www.linkedin.com/in/kurt-laguerta-70a951347)
 
 **GitHub**  
 [github.com/yourusername](https://github.com/yourusername) <!-- Replace with actual username -->
 
 **Phone**  
-+63 905 556 2005
++63 961 053 8041
 
 **Location**  
-Santo Niño, South Cotabato, Philippines
+1921 B Dagonoy San Andres Bukid Manila
 
 ---
 
