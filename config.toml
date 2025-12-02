@@ -26,7 +26,7 @@ enableEmoji = true
   hero_location = "1921 B Dagonoy San Andres Bukid Manila"
   profile_image = "/images/kurt.jpg"  # or your preferred portrait image
 
-  resume_url_en = "/files/john-kyle-lastimosa-resume.pdf"
+  resume_url_en = "/files/kurt-laguerta-resume.pdf"
   resume_label = "Download Resume"
 
   copyright = "© 2025 Kurt O. Laguerta. All rights reserved."
