@@ -11,7 +11,7 @@ collab_title: "Open for Collaboration In:"
 [linkedin.com/in/kurt-laguerta-70a951347](https://www.linkedin.com/in/kurt-laguerta-70a951347)
 
 **GitHub**  
-[github.com/yourusername](https://github.com/yourusername) <!-- Replace with actual username -->
+[github.com/KurtLaguerta](https://github.com/KurtLaguerta)
 
 **Phone**  
 +63 961 053 8041

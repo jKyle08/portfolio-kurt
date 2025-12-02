@@ -19,8 +19,8 @@ enableEmoji = true
 
   linkedin_url = "https://www.linkedin.com/in/kurt-laguerta-70a951347"
   linkedin_text = "kurt-laguerta"
-  github_url = "https://github.com/jKyle08"
-  github_text = "jKyle08"
+  github_url = "https://https://github.com/KurtLaguerta"
+  github_text = "KurtLaguerta"
 
   hero_description = "I specialize in building robust full-stack web applications with clean code and modern UI. Let’s build something amazing together!"
   hero_location = "1921 B Dagonoy San Andres Bukid Manila"
@@ -68,4 +68,4 @@ enableEmoji = true
 
 [[params.social]]
   icon = "github"
-  url = "https://github.com/jKyle08"
+  url = "https://github.com/KurtLaguerta"
